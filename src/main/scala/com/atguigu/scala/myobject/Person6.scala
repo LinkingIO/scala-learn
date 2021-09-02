@@ -1,4 +1,4 @@
-package com.atguigu.scala.test
+package com.atguigu.scala.myobject
 
 class Person6 {
   val name: String = "person" // 子类对抽象属性进行实现，父类抽象属性可用var修饰

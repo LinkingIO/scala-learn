@@ -1,4 +1,4 @@
-package com.atguigu.scala.test
+package com.atguigu.scala.myobject
 
 // 如主构造器无参数，小括号可以省略
 class Person3 {

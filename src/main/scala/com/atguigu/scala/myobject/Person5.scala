@@ -1,4 +1,4 @@
-package com.atguigu.scala.test
+package com.atguigu.scala.myobject
 
 class Person5(nameParam: String) {
   var name = nameParam

@@ -1,4 +1,4 @@
-package com.atguigu.scala.test
+package com.atguigu.scala.myobject
 
 import scala.beans.BeanProperty
 

@@ -1,4 +1,4 @@
-package com.atguigu.scala.test
+package com.atguigu.scala.myobject
 
 class Person2 {
   // private只能在类的内部和伴生对象中可用
@@ -6,7 +6,7 @@ class Person2 {
   // protected 比Java中更严格，同类，子类可访问，同包不能访问
   protected var age: Int = 18
   // 在private私有属性中增加包的访问权限
-  private[test] var sex: String = "男"
+  private[myobject] var sex: String = "男"
 
   def say() = {
     println(name)
